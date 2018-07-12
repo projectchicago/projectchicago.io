@@ -1,0 +1,3 @@
+[submodule "gastoken.io"]
+	path = gastoken.io
+	url = https://github.com/projectchicago/gastoken.io.git
